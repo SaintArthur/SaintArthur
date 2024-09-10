@@ -1,7 +1,7 @@
 ### Hi im Arthur 👋
 
 <h3>A passionate Red Teamer and Malware Developer from Brasil</h3> 
-<h2>I often write articles in inferi.zip</h2>
+<h2></h2>
 
 <div>
   <a href="https://github.com/Saint">
